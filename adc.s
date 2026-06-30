@@ -1,0 +1,15 @@
+AREA ADC_DEMO, CODE, READONLY
+ENTRY
+
+START
+    MOV R0,#10
+    MOV R1,#20
+    MOV R2,#0
+
+    ADDS R2,R0,R1
+    ADC R3,R2,#0
+
+STOP
+    B STOP
+
+END
