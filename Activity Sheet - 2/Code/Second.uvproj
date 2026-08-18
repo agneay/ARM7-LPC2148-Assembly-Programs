@@ -46,7 +46,7 @@
             <InvalidFlash>1</InvalidFlash>
           </TargetStatus>
           <OutputDirectory>.\Objects\</OutputDirectory>
-          <OutputName>First Program</OutputName>
+          <OutputName>Second</OutputName>
           <CreateExecutable>1</CreateExecutable>
           <CreateLib>0</CreateLib>
           <CreateHexFile>1</CreateHexFile>
@@ -171,7 +171,7 @@
             <UseExternalTool>1</UseExternalTool>
             <RunIndependent>0</RunIndependent>
             <UpdateFlashBeforeDebugging>1</UpdateFlashBeforeDebugging>
-            <Capability>1</Capability>
+            <Capability>0</Capability>
             <DriverSelection>-1</DriverSelection>
           </Flash1>
           <bUseTDR>1</bUseTDR>
@@ -428,9 +428,9 @@
               <FilePath>.\Startup.s</FilePath>
             </File>
             <File>
-              <FileName>First.c</FileName>
+              <FileName>second.c</FileName>
               <FileType>1</FileType>
-              <FilePath>.\First.c</FilePath>
+              <FilePath>.\second.c</FilePath>
             </File>
           </Files>
         </Group>

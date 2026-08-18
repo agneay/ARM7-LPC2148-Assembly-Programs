@@ -1,0 +1,6 @@
+-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork --split_sections
+-I C:\Keil_v5\ARM\RV31\INC
+-I C:\Keil_v5\ARM\CMSIS\Include
+-I C:\Keil_v5\ARM\Inc\Philips
+-D__UVISION_VERSION="515"
+-o .\objects\second.o --omf_browse .\objects\second.crf --depend .\objects\second.d "second.c"
