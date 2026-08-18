@@ -1,0 +1,5 @@
+Dependencies for Project 'Third', Target 'Target_1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x559CFDE8)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips--pd "__UVISION_VERSION SETA 515"--list .\listings\startup.lst --xref -o .\objects\startup.o --depend .\objects\startup.d)
+F (.\Third.c)(0x6A848735)(--c99 -c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips-D__UVISION_VERSION="515"-o .\objects\third.o --omf_browse .\objects\third.crf --depend .\objects\third.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x6A845C19)
+I (C:\Keil_v5\ARM\Inc\Philips\LPC213x.h)(0x6A845E29)
