@@ -1,0 +1,4 @@
+Dependencies for Project 'eight', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x6A845F07)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips--pd "__UVISION_VERSION SETA 515"--list .\listings\startup.lst --xref -o .\objects\startup.o --depend .\objects\startup.d)
+F (.\eight.c)(0x6A850609)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips-D__UVISION_VERSION="515"-o .\objects\eight.o --omf_browse .\objects\eight.crf --depend .\objects\eight.d)
+I (C:\Keil_v5\ARM\Inc\Philips\LPC21xx.h)(0x6A845E29)

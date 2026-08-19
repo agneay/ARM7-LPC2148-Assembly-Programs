@@ -10,7 +10,6 @@
       <TargetName>Target 1</TargetName>
       <ToolsetNumber>0x4</ToolsetNumber>
       <ToolsetName>ARM-ADS</ToolsetName>
-      <pArmCC>5050169::V5.05 update 2 (build 169)::ARMCC</pArmCC>
       <TargetOption>
         <TargetCommonOption>
           <Device>LPC2138</Device>
@@ -46,7 +45,7 @@
             <InvalidFlash>1</InvalidFlash>
           </TargetStatus>
           <OutputDirectory>.\Objects\</OutputDirectory>
-          <OutputName>sixth</OutputName>
+          <OutputName>seven</OutputName>
           <CreateExecutable>1</CreateExecutable>
           <CreateLib>0</CreateLib>
           <CreateHexFile>1</CreateHexFile>
@@ -417,9 +416,9 @@
               <FilePath>.\Startup.s</FilePath>
             </File>
             <File>
-              <FileName>sixth.c</FileName>
+              <FileName>seven.c</FileName>
               <FileType>1</FileType>
-              <FilePath>.\sixth.c</FilePath>
+              <FilePath>.\seven.c</FilePath>
             </File>
           </Files>
         </Group>
