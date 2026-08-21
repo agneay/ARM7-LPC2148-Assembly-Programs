@@ -9,7 +9,7 @@ ARM7 LPC2148 Assembly Language Programs and embedded systems lab experiments for
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y21JGEH6)
 
-## Lab Activity Output Video Recordings
+## Lab Activity Document with Output Recordings
 
 > **Note:** Not a fan of Word documents? Don't worry I got you covered! , so here are the Canva docs containing the recordings and links for each lab activity.
 
